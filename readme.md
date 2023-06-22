@@ -1,1 +1,0 @@
-Notes untuk QR Generator

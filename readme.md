@@ -1,4 +1,4 @@
-Aplikasi QR Generator
+Aplikasi QR Generator - Flutter
 
 Dibuat untuk sharing session ke-1 komunitas AppWork Indonesia.
 
